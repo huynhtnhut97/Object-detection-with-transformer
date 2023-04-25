@@ -1,14 +1,14 @@
 # Object-detection-with-transformer
 This repository contains the code for object detection with transformer project that is trained and assessed on the benchmark dataset(COCO).
 ## Installation
-
+Cancel changes
 1. Clone this repository: `git clone https://github.com/huynhtnhut97/Object-detection-with-transformer.git`
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
 
 1. Navigate to the project directory: `cd project`
-2. Run the project: `python main.py`
+2. Run the project: `dert_with_modifications`
 3. Follow the on-screen instructions to use the project.
 
 ## Contributing
